@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hey there! Welcome to my GitHub universe! 🚀<br><br>- 🔭 I’m currently working on: Teaching computers to understand human language... because it’s about time someone listens to me! 😅 Natural Language Processing it is!<br>- 🌱 Looking to collaborate on: Anything powered by Next.js or React Native—if it’s got cool UI/UX or some awesome interactivity, I’m all in!<br>- 🎓 Student at: Indian Institute of Technology Jodhpur, BTech third year (a.k.a. "Code Ninja in Training").<br>- 💬 Ask me about: How to break code just by looking at it... and then how to fix it (eventually).<br>- 🤓 Fun fact: I have mastered the art of staring at code in hopes it fixes itself. Spoiler: It doesn’t, but optimism is key!<br>
+ 👋 Hey there! Welcome to my GitHub universe! 🚀<br><br>- 🔭 I’m currently working on Natural Language Processing <br>- 🌱 Looking to collaborate on: Anything powered by Next.js or React Native—if it’s got cool UI/UX or some awesome interactivity, I’m all in!<br>- 🎓 Student at: Indian Institute of Technology Jodhpur, BTech third year.
 
 
 ## 🌐 Socials:
