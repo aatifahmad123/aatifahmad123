@@ -1,2 +1,26 @@
-# 💫 About Me:
- 👋 Hey there! Welcome to my GitHub universe! 🚀<br><br>- 🔭 I’m currently working on App Development with React Native <br>- 🌱 Looking to collaborate on: Anything powered by Next.js or React Native—if it’s got cool UI/UX or some awesome interactivity, I’m all in!<br>- 🎓 Student at: Indian Institute of Technology Jodhpur, BTech in Artificial Intelligence
+# Chandra Prakash
+
+## Aspiring Software Developer | AI & Data Science Enthusiast
+
+## Education
+- BTech in Artificial Intelligence and Data Science from IIT Jodhpur (Senior Year)
+
+## Skills
+- HTML
+- CSS
+- Javascript
+- Tailwind
+- React
+- NextJS
+- Shadcn
+- Appwrite
+- MongoDB
+- SQL
+- Python
+- C++
+- Typescript
+- Supabase
+- Firebase
+- GraphQL
+- React Native
+- Figma
