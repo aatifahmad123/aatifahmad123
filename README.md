@@ -8,16 +8,16 @@
 
 ## About Me (Playlist Edition)
 
-**Track 01 — Full Stack Applications**  
+**Track 01 - Full Stack Applications**  
 Designing and developing clean, scalable applications.
 
-**Track 02 — AI & Data Science**  
+**Track 02 - AI & Data Science**  
 Exploring ML models, data pipelines and intelligent systems.
 
-**Track 03 — Side Projects**  
+**Track 03 - Side Projects**  
 Building things for fun, learning and impact.
 
-**Track 04 — Continuous Learning**  
+**Track 04 - Continuous Learning**  
 Always curious. Always improving.
 
 ---
