@@ -40,3 +40,4 @@ Always curious. Always improving.
 If you like **code + music + clean engineering**,  
 we’ll probably get along 🙂
 
+<sub>Spotify widget powered by https://github.com/kittinan/spotify-github-profile</sub>
