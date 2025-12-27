@@ -1,12 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub universe
 
-**Coding with music on, one track at a time.**
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136nvwkcr6btvi3te3cxvwdr4qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3136nvwkcr6btvi3te3cxvwdr4qi&redirect=true)
-
----
-
-## About Me (Playlist Edition)
+## About Me
 
 **Track 01 - Full Stack Applications**  
 Designing and developing clean, scalable applications.
@@ -22,7 +16,7 @@ Always curious. Always improving.
 
 ---
 
-## Tech Stack (Instruments I Play)
+## Tech Stack
 
 - **Languages:** Python, JavaScript, C++
 - **Core CS:** Data Structures & Algorithms, Databases
@@ -37,7 +31,12 @@ Always curious. Always improving.
 
 ## Let’s Connect
 
-If you like **code + music + clean engineering**,  
+If you like **code + clean engineering**,  
 we’ll probably get along 🙂
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136nvwkcr6btvi3te3cxvwdr4qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3136nvwkcr6btvi3te3cxvwdr4qi&redirect=true)
+
 
 <sub>Spotify widget powered by https://github.com/kittinan/spotify-github-profile</sub>
