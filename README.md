@@ -24,7 +24,7 @@ Always curious. Always improving.
 - **Frameworks, Libraries and Runtimes:** Fast API, React, Node, PyTorch, Scikit-learn, Streamlit
 - **Data & Visualization:** Pandas, NumPy, Seaborn, Plotly, Dash, Metabase
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** Docker, Git, GCP, Firebase
+- **Cloud & DevOps:** Docker, Git, GCP, AWS (S3, EC2)
 - **Special Interests:** Applied Cryptography
 
 ---
@@ -33,10 +33,3 @@ Always curious. Always improving.
 
 If you like **code + clean engineering**,  
 we’ll probably get along 🙂
-
----
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136nvwkcr6btvi3te3cxvwdr4qi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3136nvwkcr6btvi3te3cxvwdr4qi&redirect=true)
-
-
-<sub>Spotify widget powered by https://github.com/kittinan/spotify-github-profile</sub>
