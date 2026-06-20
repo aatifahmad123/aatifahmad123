@@ -19,7 +19,7 @@ Always curious. Always improving.
 ## Tech Stack
 
 - **Languages:** Python, JavaScript, C++
-- **Core CS:** Data Structures & Algorithms, Databases
+- **Core CS:** Data Structures & Algorithms
 - **AI / ML:** Machine Learning, Deep Learning, NLP, GANs, RAG Systems
 - **Frameworks, Libraries and Runtimes:** Fast API, React, Node, PyTorch, Scikit-learn, Streamlit
 - **Data & Visualization:** Pandas, NumPy, Seaborn, Plotly, Dash, Metabase
