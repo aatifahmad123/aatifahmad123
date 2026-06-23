@@ -2,7 +2,7 @@
 
 ## About Me
 
-Quietly getting things done - Love contributing to fun & impactful projects.
+Getting things done - Love contributing to fun & impactful projects.
 
 ---
 
