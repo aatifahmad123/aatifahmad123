@@ -1,35 +1,25 @@
-# 👋 Hey there! Welcome to my GitHub universe
+# 👋 hey there! welcome to my gitHub universe
 
-## About Me
+## about me
 
-**Track 01 - Full Stack Applications**  
-Designing and developing clean, scalable applications.
-
-**Track 02 - AI & Data Science**  
-Exploring ML models, data pipelines and intelligent systems.
-
-**Track 03 - Side Projects**  
-Building things for fun, learning and impact.
-
-**Track 04 - Continuous Learning**  
-Always curious. Always improving.
+quietly getting things done - love contributing to fun & impactful projects.
 
 ---
 
-## Tech Stack
+## tech stack
 
-- **Languages:** Python, JavaScript, C++
-- **Core CS:** Data Structures & Algorithms
-- **AI / ML:** Machine Learning, Deep Learning, NLP, GANs, RAG Systems
-- **Frameworks, Libraries and Runtimes:** Fast API, React, Node, PyTorch, Scikit-learn, Streamlit
-- **Data & Visualization:** Pandas, NumPy, Seaborn, Plotly, Dash, Metabase
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** Docker, Git, GCP, AWS (S3, EC2)
-- **Special Interests:** Applied Cryptography
+- **languages:** python, javaScript, c++
+- **core cs:** data structures & algorithms
+- **ai / ml:** machine Learning, deep learning, nlp, gan, rag systems
+- **frameworks, libraries and runtimes:** fast api, react, node, pytorch, scikit-learn, streamlit
+- **data & visualization:** pandas, numpy, seaborn, plotly, sash, metabase
+- **databases:** mysql, postgresql, mongodb
+- **cloud & devops:** docker, git, gcp, aws (s3, ec2)
+- **special interests:** applied cryptography
 
 ---
 
-## Let’s Connect
+## let’s connect
 
-If you like **code + clean engineering**,  
+if you like **code + clean engineering**,  
 we’ll probably get along 🙂
